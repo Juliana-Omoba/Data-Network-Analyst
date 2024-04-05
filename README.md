@@ -68,17 +68,24 @@
 **Application of an Improved Optimization Using Learning Strategies and Long Short Term-Memory for Bankruptcy Prediction** 
 [Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJCS/issues_v50/issue_2/IJCS_50_2_21.pdf)
 
+<img src = "img/LSTM_PSO1.png">
+
 Bankruptcy prediction has long been a focus in economics. This paper introduces a novel method integrating enhanced particle swarm optimization (PSO) and optimized long short-term memory (LSTM) systems for improved accuracy. Utilizing self-learning and multi-learning strategies, the PSO algorithm determines optimal LSTM parameters. The approach combines optimal feature selection with the LSTM model, outperforming traditional models across various metrics. Evaluation is conducted using data from the University of California Irvine's machine learning repository. Comparative analysis demonstrates the superiority of the enhanced LSTM model in predicting bankruptcy.
 
 
 **The Effect of Imbalanced Data and Parameter Selection via Genetic Algorithm Long Short-Term Memory (LSTM) for Financial Distress Prediction**
 [Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJAM/issues_v53/issue_3/IJAM_53_3_04.pdf)
 
+<img src = "img/imbalancedData.png">
+
+
 Financial institutions face challenges in bankruptcy prediction, with real-life datasets often imbalanced and high-dimensional. To address this, we applied oversampling using SMOTE and optimized LSTM parameters with a genetic algorithm. Our study compared baseline models, ensemble classifiers, and LSTM models, finding that the improved LSTM-GA achieved 98.11% accuracy, outperforming others. We also developed an autoencoder LSTM model and observed its performance relative to LSTM-GA. Overall, our research concludes that LSTM models, particularly optimized with genetic algorithms, excel in bankruptcy prediction compared to traditional methods.
 
 
 **Stock Market Behaviour Prediction using Stacked LSTM Networks**
 [Publication](ieeexplore.ieee.org/abstract/document/9015840)
+
+<img src = "img/StockMarket.png">
 
 The stock market's behavior has intrigued researchers, especially in Machine Learning and time series analysis. Analyzing a seemingly unsynchronized yet historically influenced entity like the stock market remains a challenge. This study employs a stacked Long Short-Term Memory (LSTM) network model to predict stock market behavior using historical data from the American Stock Exchange and NASDAQ Composite (IXIC). The results demonstrate that utilizing a stacked LSTM network model facilitates accurate prediction of future stock market behavior.
 
@@ -98,6 +105,8 @@ Stock market behavior prediction is a well-studied area, with Recurrent Neural N
 **Financial Distress Prediction**
 
 Bankruptcy represents a significant and undesirable event within the economic landscape, bearing lasting negative consequences that reverberate across various sectors. Its impacts extend beyond immediate stakeholders to encompass business owners, shareholders, investors, policymakers, employees, and governmental entities. The global reverberations of the Lehman Brothers' financial crisis of 2008 serve as a poignant reminder of the far-reaching ramifications of such events.
+
+<img src = "img/dimensionality.png">
 
 In the research endeavors, a comprehensive methodological approach has been undertaken to address financial distress, encompassing both bankruptcy and credit scoring considerations. The methodology incorporates strategies tailored to mitigate challenges inherent in bankruptcy datasets, including issues such as high dimensionality, class imbalance, and missing values. To tackle these complexities, advanced computational techniques, including but not limited to improved particle swarm optimization (PSO) and genetic algorithms (GA), have been employed. A range of deep learning and machine learning algorithms have been employed to develop models with optimal performance in terms of accuracy and other metrics. Furthermore, techniques have been utilized to address high dimensionality and imbalance within the datasets, facilitating comprehensive comparisons.
 
