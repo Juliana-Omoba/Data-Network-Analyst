@@ -70,7 +70,7 @@
 
 Bankruptcy represents a significant and undesirable event within the economic landscape, bearing lasting negative consequences that reverberate across various sectors. Its impacts extend beyond immediate stakeholders to encompass business owners, shareholders, investors, policymakers, employees, and governmental entities. The global reverberations of the Lehman Brothers' financial crisis of 2008 serve as a poignant reminder of the far-reaching ramifications of such events.
 
-<img src = "img/dimensionality.png">
+<img src = "Lmg/dimensionality.png">
 
 In the research endeavors, a comprehensive methodological approach has been undertaken to address financial distress, encompassing both bankruptcy and credit scoring considerations. The methodology incorporates strategies tailored to mitigate challenges inherent in bankruptcy datasets, including issues such as high dimensionality, class imbalance, and missing values. To tackle these complexities, advanced computational techniques, including but not limited to improved particle swarm optimization (PSO) and genetic algorithms (GA), have been employed. A range of deep learning and machine learning algorithms have been employed to develop models with optimal performance in terms of accuracy and other metrics. Furthermore, techniques have been utilized to address high dimensionality and imbalance within the datasets, facilitating comprehensive comparisons.
 
@@ -85,12 +85,12 @@ Research employs a methodological approach integrating deep learning and machine
 A novel method combines PSO and LSTM systems, outperforming traditional models in predicting bankruptcy, as demonstrated through evaluation using real-life datasets. **Application of an Improved Optimization Using Learning Strategies and Long Short Term-Memory for Bankruptcy Prediction** 
 <!---[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJCS/issues_v50/issue_2/IJCS_50_2_21.pdf)-->
 
-<img src = "img/LSTM_PSO1.png">
+<img src = "Lmg/LSTM_PSO1.png">
 
 Similarly, in stock market prediction, a stacked LSTM network model proves effective in analyzing historical data for accurate future predictions. **Stock Market Behaviour Prediction using Stacked LSTM Networks**
 [Publication](ieeexplore.ieee.org/abstract/document/9015840)
 
-<img src = "img/StockMarket.png">
+<img src = "lmg/StockMarket.png">
 
 In bankruptcy prediction, a hybrid PCA-ANN model stands out, surpassing others in accuracy when evaluated against dataset factors like training/testing ratios. **Financial Distress Prediction: Principle Component Analysis and Artificial Neural Networks**
 [Publication](https://ieeexplore.ieee.org/abstract/document/9015884)
