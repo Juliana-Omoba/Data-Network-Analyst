@@ -3,7 +3,7 @@
 
 #### Technical Skills: Python, SQL, NoSQL, Power Bi, Microsoft excel, MATLAB
 ## Education
-- Postg. Cert.,  Data Analysis & Artificial Intelligence          | Saskatchewan Polytechnic Canada (December 2023)
+- Post. Cert.,  Data Analysis & Artificial Intelligence          | Saskatchewan Polytechnic Canada (December 2023)
 - M.Sc., 	       Electronics Engineering   		  | University of KwaZulu-Natal, South Africa (April 2015)
 - B.Sc., 	       Computer Engineering       		  | Ladoke Akintola University, Nigeria (December 2010)  
 
@@ -110,5 +110,44 @@ Bankruptcy represents a significant and undesirable event within the economic la
 
 In the research endeavors, a comprehensive methodological approach has been undertaken to address financial distress, encompassing both bankruptcy and credit scoring considerations. The methodology incorporates strategies tailored to mitigate challenges inherent in bankruptcy datasets, including issues such as high dimensionality, class imbalance, and missing values. To tackle these complexities, advanced computational techniques, including but not limited to improved particle swarm optimization (PSO) and genetic algorithms (GA), have been employed. A range of deep learning and machine learning algorithms have been employed to develop models with optimal performance in terms of accuracy and other metrics. Furthermore, techniques have been utilized to address high dimensionality and imbalance within the datasets, facilitating comprehensive comparisons.
 
+To address financial distress, advanced computational techniques like PSO and GA are employed, mitigating challenges in bankruptcy datasets such as high dimensionality and class imbalance. **The Effect of Imbalanced Data and Parameter Selection via Genetic Algorithm Long Short-Term Memory (LSTM) for Financial Distress Prediction**
+<!---[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJAM/issues_v53/issue_3/IJAM_53_3_04.pdf)-->
 
+<img src = "img/imbalancedData.png">
+
+
+
+Research employs a methodological approach integrating deep learning and machine learning algorithms for optimal model performance.
+A novel method combines PSO and LSTM systems, outperforming traditional models in predicting bankruptcy, as demonstrated through evaluation using real-life datasets. **Application of an Improved Optimization Using Learning Strategies and Long Short Term-Memory for Bankruptcy Prediction** 
+<!---[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJCS/issues_v50/issue_2/IJCS_50_2_21.pdf)-->
+
+<img src = "img/LSTM_PSO1.png">
+
+Similarly, in stock market prediction, a stacked LSTM network model proves effective in analyzing historical data for accurate future predictions. **Stock Market Behaviour Prediction using Stacked LSTM Networks**
+[Publication](ieeexplore.ieee.org/abstract/document/9015840)
+
+<img src = "img/StockMarket.png">
+
+In bankruptcy prediction, a hybrid PCA-ANN model stands out, surpassing others in accuracy when evaluated against dataset factors like training/testing ratios. **Financial Distress Prediction: Principle Component Analysis and Artificial Neural Networks**
+[Publication](https://ieeexplore.ieee.org/abstract/document/9015884)
+
+## Publications
+
+1. Adisa, J.A., Ojo, S., Owolawi, P.A., Pretorius, A. and Ojo, S.O., 2023. Application of an improved optimization using learning strategies and long short term-memory for bankruptcy prediction. IAENG International Journal of Computer Science, 50(2), pp.512-524.
+<!---[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJCS/issues_v50/issue_2/IJCS_50_2_21.pdf)-->
+
+
+2. Adisa, J.A., Ojo, S., Owolawi, P.A., Pretorius, A. and Ojo, S.O., 2023. The Effect of Imbalanced Data and Parameter Selection via Genetic Algorithm Long Short-Term Memory (LSTM) for Financial Distress Prediction. IAENG International Journal of Applied Mathematics, 53(3), pp.25-38.
+<!---[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJAM/issues_v53/issue_3/IJAM_53_3_04.pdf)-->
+
+3. Adisa, J., Ojo, S., Owolawi, P., Pretorius, A. and Ojo, S.O., 2022, March. Credit score prediction using genetic algorithm-lstm technique. In 2022 Conference on Information Communications Technology and Society (ICTAS) (pp. 1-6). IEEE. [here](https://ieeexplore.ieee.org/abstract/document/9744714)
+
+4. Ojo, S.O., Adisa, J.A., Owolawi, P.A., Du, C.T. and Mphahlele, M., 2020, December. Stock market behaviour prediction using long short-term memory network and gated recurrent unit. In 2020 International Conference on Computational Science and Computational Intelligence (CSCI) (pp. 615-621). IEEE.
+   [here](https://ieeexplore.ieee.org/abstract/document/9458150)
+
+5. Adisa, J.A., Ojo, S.O., Owolawi, P.A. and Pretorius, A.B., 2019, November. Financial distress prediction: Principle component analysis and artificial neural networks. In 2019 International Multidisciplinary Information Technology and Engineering Conference (IMITEC) (pp. 1-6). IEEE.[here](https://ieeexplore.ieee.org/abstract/document/9015884)
+
+6. Ojo, S.O., Owolawi, P.A., Mphahlele, M. and Adisa, J.A., 2019, November. Stock market behaviour prediction using stacked LSTM networks. In 2019 International multidisciplinary information technology and engineering conference (IMITEC) (pp. 1-5). IEEE. [here](https://ieeexplore.ieee.org/abstract/document/9015840)
+
+   
 
