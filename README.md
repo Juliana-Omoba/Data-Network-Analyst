@@ -3,9 +3,9 @@
 
 #### Technical Skills: Python, SQL, NoSQL, Power Bi, Microsoft excel, MATLAB
 ## Education
-- Postgraduate Cert.,  Data Analysis and Artificial Intelligence     |	Saskatchewan Polytechnic Canada (December 2023)
-- M.Sc., 	       Electronics Engineering   		     |	University of KwaZulu-Natal, South Africa (April 2015)
-- B.Sc., 	       Computer Engineering       		     |	Ladoke Akintola University, Nigeria (December 2010)  
+- Postgraduate Cert.,  Data Analysis and Artificial Intelligence  | Saskatchewan Polytechnic Canada (December 2023)
+- M.Sc., 	       Electronics Engineering   		  | University of KwaZulu-Natal, South Africa (April 2015)
+- B.Sc., 	       Computer Engineering       		  | Ladoke Akintola University, Nigeria (December 2010)  
 
 ## Work Experience
 
