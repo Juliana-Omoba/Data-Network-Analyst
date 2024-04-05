@@ -77,7 +77,7 @@ In the research endeavors, a comprehensive methodological approach has been unde
 To address financial distress, advanced computational techniques like PSO and GA are employed, mitigating challenges in bankruptcy datasets such as high dimensionality and class imbalance. **The Effect of Imbalanced Data and Parameter Selection via Genetic Algorithm Long Short-Term Memory (LSTM) for Financial Distress Prediction**
 <!---[Publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iaeng.org/IJAM/issues_v53/issue_3/IJAM_53_3_04.pdf)-->
 
-<img src = "img/imbalancedData.png">
+<img src = "lmg/imbalancedData.png">
 
 
 
