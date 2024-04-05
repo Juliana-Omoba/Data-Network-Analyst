@@ -1,4 +1,4 @@
-# portfolio
+# Data/Network Analyst
 
 
 #### Technical Skills: Python, SQL, NoSQL, Power Bi, Microsoft excel, MATLAB
