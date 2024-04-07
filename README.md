@@ -26,7 +26,7 @@
 - Professional Development Initiatives: Engaged in continuous professional development activities, attending workshops, conferences, and training sessions to enhance pedagogical skills and stay abreast of emerging trends in higher education.
 
 	 
-**Tutor @  University of KwaZulu-Natal, Durban, South Africa (September 2013 – December 2018)**
+**Tutor @ University of KwaZulu-Natal, Durban, South Africa (September 2013 – December 2018)**
 
 - Student Support and Guidance: Offered academic support sessions to aid students in understanding course material, clarifying concepts, and enhancing study skills.
 - Facilitation of Learning: Created a supportive and engaging environment for student-centered learning, encouraging participation and question asking.
